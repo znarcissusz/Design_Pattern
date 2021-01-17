@@ -3,6 +3,8 @@ from abc import ABCMeta, abstractmethod
 # second time change it
 
 
+# Main add a comment
+
 class Strategy(metaclass=ABCMeta):
     @abstractmethod
     def excute(self, data):
