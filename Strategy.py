@@ -1,5 +1,6 @@
 from abc import ABCMeta, abstractmethod
 # haha
+# second time change it
 
 
 class Strategy(metaclass=ABCMeta):
